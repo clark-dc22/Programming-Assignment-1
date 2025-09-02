@@ -3,6 +3,7 @@ This repository contains solutions for Programming Assignment #1, which involves
 
 	1.	Alphabetical Sorting of Characters
 A function that accepts a user-provided word and rearranges its characters in alphabetical order. 
+![image](https://github.com/user-attachments/assets/01dd1f85-8a52-4b49-bc6c-f7fb7513b733)
 
 	2.	Word-to-Emoticon Conversion
 A function that processes a user-input sentence and replaces specific keywords with their corresponding emoticons.
