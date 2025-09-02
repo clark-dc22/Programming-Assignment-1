@@ -7,6 +7,7 @@ A function that accepts a user-provided word and rearranges its characters in al
 
 	2.	Word-to-Emoticon Conversion
 A function that processes a user-input sentence and replaces specific keywords with their corresponding emoticons.
+![image](https://github.com/user-attachments/assets/818b9db9-8cf5-47b2-9014-ea0a372c37fc)
 
 	3.	List Unpacking
 A function that unpacks the list writeyourcodehere into three variables:
@@ -14,3 +15,5 @@ A function that unpacks the list writeyourcodehere into three variables:
 	•	middle → stores all elements except the first and last
 	•	last → stores the last element
 The program then prints all three variables.
+![image](https://github.com/user-attachments/assets/ea8b2bbe-6b4a-4289-acf0-999fb38b3664)
+
