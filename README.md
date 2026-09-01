@@ -28,7 +28,7 @@ Create a function named rotate word() that accepts a non-empty string. Move the 
 
 - Outputs:
 
-<img width="238" height="86" alt="Screenshot 2026-09-01 at 12 04 24 PM" src="https://github.com/user-attachments/assets/94880940-5826-4980-9ee4-3c542f9eb904" />
+<img width="354" height="121" alt="Screenshot 2026-09-01 at 1 23 23 PM" src="https://github.com/user-attachments/assets/c0026597-f3f8-4768-b01b-12cca1f2ef2f" />
 
 ## Problem B
 Create a function named make username() that accepts two strings: first name and last name. The
@@ -48,7 +48,7 @@ function must:
 
 - Outputs:
 
-<img width="329" height="56" alt="Screenshot 2026-09-01 at 12 07 51 PM" src="https://github.com/user-attachments/assets/3b4458cc-e0a1-4ec4-a64a-8d1fedebe209" />
+<img width="302" height="102" alt="Screenshot 2026-09-01 at 1 23 47 PM" src="https://github.com/user-attachments/assets/b21698f3-57e4-4f4b-af37-ac96283f91c7" />
 
 ## Problem C
 Create a function named make username() that accepts two strings: first name and last name. The
@@ -67,6 +67,8 @@ function must:
 <img width="706" height="125" alt="Screenshot 2026-09-01 at 12 34 57 PM" src="https://github.com/user-attachments/assets/0554a8e3-c753-4a42-9af5-cb295e39be61" />
 
 - Output:
-<img width="441" height="58" alt="Screenshot 2026-09-01 at 12 29 53 PM" src="https://github.com/user-attachments/assets/6c60705e-d1da-452d-8784-4b221fea9803" />
+
+<img width="488" height="88" alt="Screenshot 2026-09-01 at 1 24 06 PM" src="https://github.com/user-attachments/assets/b7dea296-070a-4fc0-a7db-a14b0584edc8" />
+
 
 
